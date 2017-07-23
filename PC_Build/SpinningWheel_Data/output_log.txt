@@ -7,27 +7,31 @@ Direct3D:
     VRAM:     4065 MB
     Driver:   21.21.13.7682
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-- Completed reload, in  0.025 seconds
-Platform assembly: E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: E:\GitHub\SpiningWheel\PC_Build\SpinningWheel_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.235 seconds
+Platform assembly: E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\GitHub\WheelOfFortune\PC_Build\SpinningWheel_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 4800x1350 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 3.432787 ms
+UnloadTime: 37.419395 ms
 The Angle is : 420 The Item is : 1 The Prize is : 250
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+The Angle is : 540 The Item is : 3 The Prize is : 500
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 9cdc -> priority: 1 
+  Thread -> id: 9354 -> priority: 1 
